@@ -9,3 +9,5 @@ doc/
 *.sqlite3
 test/tmp/*
 .idea
+
+/config/secrets.yml
