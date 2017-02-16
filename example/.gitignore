@@ -4,3 +4,4 @@
 /log/*
 /tmp
 .env
+config/secrets.yml

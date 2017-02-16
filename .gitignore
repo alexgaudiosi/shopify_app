@@ -10,4 +10,4 @@ doc/
 test/tmp/*
 .idea
 
-/config/secrets.yml
+example/config/secrets.yml
